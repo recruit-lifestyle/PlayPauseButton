@@ -1,11 +1,14 @@
 # PlayPauseButton
 [![Release](https://img.shields.io/github/release/recruit-lifestyle/PlayPauseButton.svg?label=maven version)](https://github.com/recruit-lifestyle/PlayPauseButton)
+[![License](https://img.shields.io/hexpm/l/plug.svg)]()
 
 The View makes Animation the state of play.  
 Even if this works fine with API.13 or less, we support only for API.14 or more.  
 
 ##Screenshots
-*Watch YouTube video [here](https://www.youtube.com/watch?v=p9mtTcH2gAo&feature=youtu.be).*
+*Watch YouTube video [here](https://www.youtube.com/watch?v=p9mtTcH2gAo&feature=youtu.be).*  
+
+![](./sc/animation.gif)  
 
 <img src="./sc/sc1.png" width="200">
 <img src="./sc/sc2.png" width="200">
