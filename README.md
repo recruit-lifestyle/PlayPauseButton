@@ -1,4 +1,5 @@
 # PlayPauseButton
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-PlayPauseButton-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/2247)
 [![Release](https://img.shields.io/github/release/recruit-lifestyle/PlayPauseButton.svg?label=maven version)](https://github.com/recruit-lifestyle/PlayPauseButton)
 [![License](https://img.shields.io/hexpm/l/plug.svg)]()
 
