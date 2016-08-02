@@ -53,7 +53,7 @@ dependencies {
 
 3) Add ```PlayPauseButton.OnControlStatusChangeListener```  
 ```java
-playPauseButton.setOnControlStateChangeListener(new PlayPauseButton.OnControlStatusChangeListener() {
+playPauseButton.setOnControlStatusChangeListener(new PlayPauseButton.OnControlStatusChangeListener() {
   @Override public void onStatusChange(View view, boolean state) {
     if(state) {
       mMediaPlayer.start();
